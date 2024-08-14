@@ -1,3 +1,9 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/cekuhn/skills-communicate-using-markdown)
+
+<!---badges--->
+<!--- https://shields.io/badges/git-hub-commit-activity https://github.com/nmfs-ost/ss3-source-code/blob/main/README.md--->
+
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -32,4 +38,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+<!---badges--->
+<!--- https://shields.io/badges/git-hub-commit-activity https://github.com/nmfs-ost/ss3-source-code/blob/main/README.md--->
 
