@@ -19,3 +19,11 @@ Regular text
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+**Bold text**
+
+*Italicized text*
+
+***Bold and italicized text***
+
+:bowtie: 
