@@ -11,6 +11,10 @@ Regular text
 
 <img src="https://octodex.github.com/images/mona-the-rivetertocat.png" alt="Image of We can do it Octocat" width="100" height="100">
 
+
+<!--- syntax for adding comments to code ---> 
+
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
