@@ -27,3 +27,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ***Bold and italicized text***
 
 :bowtie: 
+
+### To do list  
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
